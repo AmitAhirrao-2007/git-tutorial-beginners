@@ -5,3 +5,6 @@ import numpy as np
 print("Hello World")
 print("Hello Heaven")
 print("end")
+print("Thanks")
+print("Hello")
+# change
